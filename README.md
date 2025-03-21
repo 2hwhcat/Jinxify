@@ -1,12 +1,12 @@
 # Welcome to the Jinxify!
-The language that based on **Python**!
+Another language that is based on **Python**!
 
 *Jinxify was made by @thenlko in Discord!*
 
 ![](https://i.imgur.com/5bHr5aU.png)
 
 ## How does it work?
-First of all you should know, you can still use input() or something like that. 
+First of all, you should know that you can still use input() and base python stuff like that. 
 
 The file extension is `.jinfy` so be sure if you want to make Jinxify code change the filetype to `.jinfy` ;)
 
