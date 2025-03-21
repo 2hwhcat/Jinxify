@@ -1,5 +1,5 @@
 # Welcome to the Jinxify!
-The language that based on **Python**!
+Another language that is based on **Python**!
 
 *Jinxify was made by @thenlko in Discord!*
 
