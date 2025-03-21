@@ -6,7 +6,7 @@ The language that based on **Python**!
 ![](https://i.imgur.com/5bHr5aU.png)
 
 ## How does it work?
-First of all, you should know that you can still use input() or stuff like that. 
+First of all, you should know that you can still use input() and base python stuff like that. 
 
 The file extension is `.jinfy` so be sure if you want to make Jinxify code change the filetype to `.jinfy` ;)
 
