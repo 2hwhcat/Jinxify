@@ -85,4 +85,3 @@ Results:
 ## Support/Bug Reporting/Suggestions
 
 DM me in the discord `@thenlko`
-
