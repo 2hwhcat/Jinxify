@@ -1,0 +1,9 @@
+a = 2
+if a == 1 is
+ print.log("First Place")
+elif a == 2 is
+ print.log("Second Place")
+elif a == 3 is
+ print.log("Thrid Place")
+else is
+ print.error("You lose :sob:")
