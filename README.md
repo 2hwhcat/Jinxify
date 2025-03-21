@@ -79,7 +79,7 @@ Results:
 | 1 | First Place |
 | 2 | Second Place |
 | 3 | Thrid Place |
-| 4 | You lose :sob:|
+| 4 | You lose :sоb:|
 
 
 ## Support/Bug Reporting/Suggestions
