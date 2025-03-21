@@ -5,30 +5,30 @@ The language that based on **Python**!
 
 ![](https://i.imgur.com/5bHr5aU.png)
 
-## How its work?
-First of all, Know, You still can use like input() or something like that. 
+## How does it work?
+First of all you should know, you can still use input() or something like that. 
 
-The file using `.jinfy` so be sure if you want make Jinxify code make the file type to `.jinfy` ;)
+The file extension is `.jinfy` so be sure if you want to make Jinxify code change the filetype to `.jinfy` ;)
 
-## How Start it?
-If you in Visual Studio Code, type this command in Terminal
+## How to execute it?
+If you're in Visual Studio Code, type this command into the terminal
 ```bash
 jinxify {filename}.jinfy
 ```
-*Instead file name type your file name. Example: "jinxify test.jinfy"*
+*Replace filename with your file name. Example: "jinxify test.jinfy"*
 
 ## Main Syntaxes
 
 
 ### Print Syntaxes
-Instead using just `"print"`, We gonna use `"print.log"`
+Instead of using just `"print"`, you use `"print.log"`
 ```bash
 // Example:
 print.log("Hello World!")
 ```
 `Output: Hello World!`
 
-We can use Instead using `print.log`, `print.warn`!
+Instead of using `print.log`, you can use `print.warn`!
 
 ```bash
 // Example:
@@ -36,7 +36,7 @@ print.warn("Warning")
 ```
 `Output: WARNING: Warning`
 
-Yep, There are Error one! Lets use now `print.error`!
+There are also error prints! Lets use `print.error`!
 
 ```bash
 // Example:
@@ -50,7 +50,7 @@ print.error("Error I guess?")
 ### If Syntaxes
 Let me explain how use it.
 
-Instead using `if True:` We gonna use this one
+Instead of using `if True:` you use this
 
 ```bash
 // Example:
@@ -58,9 +58,9 @@ if True is
  print.log
 ```
 
-To use else OR elif
+To use else or elif too!
 
-Here the Example
+Heres an example
 ```bash
 a = input()
 if a == 1 is
@@ -85,4 +85,3 @@ Results:
 ## Support/Bug Reporting/Suggestions
 
 DM me in the discord `@thenlko`
-
