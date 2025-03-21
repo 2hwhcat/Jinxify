@@ -17,10 +17,10 @@ jinxify {filename}.jinfy
 ```
 *Replace filename with your file name. Example: "jinxify test.jinfy"*
 
-## Main Syntaxes
+## Main Syntax
 
 
-### Print Syntaxes
+### Printing
 Instead of using just `"print"`, you use `"print.log"`
 ```bash
 // Example:
@@ -47,7 +47,7 @@ print.error("Error I guess?")
 
 
 
-### If Syntaxes
+### If statements
 Let me explain how use it.
 
 Instead of using `if True:` you use this
