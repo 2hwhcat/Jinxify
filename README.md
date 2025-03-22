@@ -55,7 +55,7 @@ Instead of using `if True:` you use this
 ```bash
 // Example:
 if True is
- print.log
+    print.log
 ```
 
 To use else or elif too!
@@ -64,13 +64,13 @@ Heres an example
 ```bash
 a = input()
 if a == 1 is
- print.log("First Place")
+    print.log("First Place")
 elif a == 2 is
- print.log("Second Place")
+    print.log("Second Place")
 elif a == 3 is
- print.log("Thrid Place")
+    print.log("Thrid Place")
 else is
- print.error("You lose :sob:")
+    print.error("You lose :sob:")
 ```
 Results:
 
